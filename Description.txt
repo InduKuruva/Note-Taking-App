@@ -1,0 +1,4 @@
+Note Taking App
+Description: A simple note-taking app where users can add, view, and delete notes.
+
+Frontend: HTML/CSS for the UI and JavaScript for adding, viewing, and deleting notes.
